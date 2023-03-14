@@ -8,7 +8,7 @@
 
 ## Next image is AppCl ok
 
-![Solution Matching Strings KMP](/codeTestUno.png)
+![Solution Matching Strings KMP](/codeTesUno.png)
 
 ### I've a article when explaining algorithm KMP in JS and C#
 
