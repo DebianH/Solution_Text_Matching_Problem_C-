@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\CODE_TEST_David_Hernandez\CODE_TEST_David_Hernandez\bin\Debug\CODE_TEST_David_Hernandez.exe.config
+C:\Users\HP\source\repos\CODE_TEST_David_Hernandez\CODE_TEST_David_Hernandez\bin\Debug\CODE_TEST_David_Hernandez.exe
+C:\Users\HP\source\repos\CODE_TEST_David_Hernandez\CODE_TEST_David_Hernandez\bin\Debug\CODE_TEST_David_Hernandez.pdb
+C:\Users\HP\source\repos\CODE_TEST_David_Hernandez\CODE_TEST_David_Hernandez\obj\Debug\CODE_TEST_David_Hernandez.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CODE_TEST_David_Hernandez\CODE_TEST_David_Hernandez\obj\Debug\CODE_TEST_David_Hernandez.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CODE_TEST_David_Hernandez\CODE_TEST_David_Hernandez\obj\Debug\CODE_TEST_David_Hernandez.exe
+C:\Users\HP\source\repos\CODE_TEST_David_Hernandez\CODE_TEST_David_Hernandez\obj\Debug\CODE_TEST_David_Hernandez.pdb
